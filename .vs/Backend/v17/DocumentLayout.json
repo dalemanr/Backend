@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|c:\\users\\david\\source\\repos\\backend\\backend\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|solutionrelative:backend\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|c:\\users\\david\\source\\repos\\backend\\backend\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|c:\\users\\david\\source\\repos\\backend\\backend\\repository\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|solutionrelative:backend\\repository\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|c:\\users\\david\\source\\repos\\backend\\backend\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|solutionrelative:backend\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|c:\\users\\david\\source\\repos\\backend\\backend\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|solutionrelative:backend\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|c:\\users\\david\\source\\repos\\backend\\backend\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|solutionrelative:backend\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|c:\\users\\david\\source\\repos\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A80903E-7573-4083-BDCB-80F2167CA0A4}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeerController.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Controllers\\BeerController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\BeerController.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Controllers\\BeerController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\BeerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:45:23.317Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Backend\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:28:22.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Repository\\BeerRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repository\\BeerRepository.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Repository\\BeerRepository.cs",
+              "RelativeToolTip": "Backend\\Repository\\BeerRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:26:10.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommonService.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Services\\ICommonService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\ICommonService.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Services\\ICommonService.cs",
+              "RelativeToolTip": "Backend\\Services\\ICommonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:53:44.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Automappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Backend\\Automappers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Automappers\\MappingProfile.cs",
+              "RelativeToolTip": "Backend\\Automappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:06:06.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeerService.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Services\\BeerService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\BeerService.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Services\\BeerService.cs",
+              "RelativeToolTip": "Backend\\Services\\BeerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:05:33.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:44:00.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
